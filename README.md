@@ -33,23 +33,31 @@
       <td><img width="30px" height="30px" align="center" alt="icon check" src="./src/assets/check.png"></td>
       <td>Aula 01</td>
       <td align="center">
-        <a href="https://elzbieta.notion.site/PLANNER-ORACLE-2502335c340d450cbc04e55458f9ce75" target="_blank">
+        <a href="https://github.com/elizabetefabri/nlw-expert-notes/commit/4559fb66fb82cb55ca6608af6a0131a53474bf9b" target="_blank">
            <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHub-090912?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>03</td>
       <td><img width="30px" height="30px" align="center" alt="icon check" src="./src/assets/check.png"></td>
-      <td>Lógica de programação: mergulhe em programação com JavaScript</td>
+      <td>Aula 02</td>
       <td align="center">
         <a href="https://github.com/elizabetesfabri/bootcamp-oracle/logica-programacao" target="_blank">
            <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHub-A3E635?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
-    
-    
+     <tr>
+      <td>03</td>
+      <td><img width="30px" height="30px" align="center" alt="icon check" src="./src/assets/check.png"></td>
+      <td>Aula 03</td>
+      <td align="center">
+        <a href="https://github.com/elizabetesfabri/bootcamp-oracle/logica-programacao" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHub-090912?style=for-the-badge" width="150px">
+        </a>
+      </td>
+    </tr>
     </tbody>
   <tfoot></tfoot>
 </table>
